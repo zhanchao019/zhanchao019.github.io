@@ -15,7 +15,6 @@ title: demopage
     <tr> <!-- 表格的一行 -->
         <th style="width: 512px;">Video</th> <!-- 表头单元格 -->
     </tr>
-    </table>
 		<table border="0"> <!-- 表格边框设置为1 -->
     <tr>
 
