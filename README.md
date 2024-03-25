@@ -23,7 +23,7 @@ title: demopage
             <img src="/assets/images/1.jpeg" width="512" height="900" alt="Image 1">
         </td>
         <td>
-            <video width="512"  src="https://chuangxin-research-1258344705.cos.accelerate.myqcloud.com/projectv/MuseV/data/result_video/Portrait-of-Dr.-Gachet.mp4" controls>  </video>
+            <video width="512"  src="[https://chuangxin-research-1258344705.cos.accelerate.myqcloud.com/projectv/MuseV/data/result_video/Portrait-of-Dr.-Gachet.mp4](https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4)https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4" controls>  </video>
         </td>
     </tr>
 
