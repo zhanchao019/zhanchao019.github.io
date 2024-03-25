@@ -33,6 +33,9 @@ title: demopage
 </table>
 
 
+<video src="[https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4](https://github.com/zhanchao019/zhanchao019.github.io/assets/34484847/871664f0-c91c-4eba-9165-a8134eabc5c5)" />
+
+
 
 
 </div>
