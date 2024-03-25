@@ -26,7 +26,7 @@ title: demopage
     </tr>
     <tr>
         <td>
-            			[<img src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/images/jinkesi2.jpeg" width="50%">](https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4)
+            			[<img src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/images/jinkesi2.jpeg" width="50%">]<video src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4" />
         </td>
     </tr>
 </table>
