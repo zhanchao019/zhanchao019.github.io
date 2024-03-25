@@ -24,6 +24,8 @@ title: demopage
             [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
         </td>
     </tr>
+			[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+
     <tr>
         <td>
             https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4
