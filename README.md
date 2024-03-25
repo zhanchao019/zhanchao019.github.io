@@ -20,7 +20,7 @@ title: demopage
 		<table border="0"> <!-- 表格边框设置为1 -->
     <tr>
         <td>
-            <img src="/assets/images/1.jpeg" width="512" height="900" alt="Image 1">
+            <img src="./assets/images/1.jpeg" width="512" height="900" alt="Image 1">
         </td>
         <td>
             <video src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4"> </video>
