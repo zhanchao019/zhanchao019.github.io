@@ -24,6 +24,7 @@ title: demopage
         </td>
         <td>
             <video src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4"> </video>
+	    [![test_1](https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4)(https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4)]	
         </td>
     </tr>
 
