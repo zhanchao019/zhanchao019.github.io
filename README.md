@@ -23,9 +23,8 @@ title: demopage
             <img src="/assets/images/1.jpeg" width="512" height="900" alt="Image 1">
         </td>
         <td>
-            <video width="512" height="900" controls>
-                <source src="[/assets/demo_videos/1.mp4](https://chuangxin-research-1258344705.cos.accelerate.myqcloud.com/projectv/MuseV/data/result_video/Portrait-of-Dr.-Gachet.mp4)https://chuangxin-research-1258344705.cos.accelerate.myqcloud.com/projectv/MuseV/data/result_video/Portrait-of-Dr.-Gachet.mp4" type="video/mp4">
-                您的浏览器不支持视频标签。
+            <video width="512" height="900" controls src="https://chuangxin-research-1258344705.cos.accelerate.myqcloud.com/projectv/MuseV/data/result_video/Portrait-of-Dr.-Gachet.mp4">
+
             </video>
         </td>
     </tr>
