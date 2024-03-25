@@ -21,7 +21,7 @@ title: demopage
 		<table border="0"> <!-- 表格边框设置为1 -->
     <tr>
         <td>
-            			[<img src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/images/jinkesi2.jpeg" width="50%">] https://github.com/zhanchao019/zhanchao019.github.io/assets/34484847/ad26ba3a-1fc2-4a00-8fe5-0e589fcfad54
+            			[<img src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/images/jinkesi2.jpeg" width="50%">]<video src="https://github.com/zhanchao019/zhanchao019.github.io/assets/34484847/ad26ba3a-1fc2-4a00-8fe5-0e589fcfad54" />
        
 	</td>
     </tr>
