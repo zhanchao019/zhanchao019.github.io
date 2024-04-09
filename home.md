@@ -14,6 +14,14 @@ title: demopage
         display: block;
         margin: auto;
     }
+    video {
+        width: auto;
+        height: auto;
+        max-width: 80%;
+        max-height: 100%;
+        display: block;
+        margin: auto;
+    }
     </style>
 	<h2 class="pageTitle">Text2Video Video Genereation Demos</h2>
 	<p></p>
