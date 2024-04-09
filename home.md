@@ -26,7 +26,6 @@ title: demopage
 	<h2 class="pageTitle">Text2Video Video Genereation Demos</h2>
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
-	<tr>Editing the.</tr>
     <tr> <!-- 表格的一行 -->
         <th style="width: 512px;">Image</th> <!-- 表头单元格 -->
         <th style="width: 512px;">Video</th> <!-- 表头单元格 -->
