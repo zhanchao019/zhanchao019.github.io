@@ -41,7 +41,7 @@ title: demopage
     </tr>
 	<tr>
         <td>
-            <video src="/assets/demo_videos/v2v.mp4"  width="512" height="900" controls>
+            <video src="/assets/demo_videos/v2v.mov"  width="512" height="900" controls>
             </video>
         </td>
     </tr>
