@@ -3,7 +3,16 @@ layout: default
 title: demopage 
 ---
 
+
 <div class="post">
+    <style>
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+            margin: auto;
+        }
+    </style>
 	<h2 class="pageTitle">Text2Video Video Genereation Demos</h2>
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
