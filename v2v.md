@@ -53,7 +53,7 @@ title: demopage
 		<table border="0"> <!-- 表格边框设置为1 -->
     <tr>
         <td>
-            <video src="/assets/demo_videos/bathsong_lite.mp4"  width="200" height="900" controls></video>
+            <video src="/assets/demo_videos/bath_song_lite.mp4"  width="200" height="900" controls></video>
         </td>
         <td>
             <video src="/assets/demo_videos/bath_lite.mp4"  width="800" height="900" controls></video>
