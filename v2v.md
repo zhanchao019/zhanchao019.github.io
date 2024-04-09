@@ -3,7 +3,6 @@ layout: default
 title: demopage 
 ---
 
-
 <div class="post">
     <style>
     img {
@@ -23,7 +22,7 @@ title: demopage
         margin: auto;
     }
     </style>
-	<h2 class="pageTitle">Text2Video Video Genereation Demos</h2>
+	<h2 class="pageTitle">Video2Video Genereation Demos</h2>
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
     <tr> <!-- 表格的一行 -->

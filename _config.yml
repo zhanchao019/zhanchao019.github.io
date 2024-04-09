@@ -19,9 +19,10 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Generation Galary
-      url: /home
-
+    - title: T2V Generation
+      url: /t2v
+    - title: V2V Generation
+      url: /v2v
 
 # social:
 #     github: brianmaierjr
