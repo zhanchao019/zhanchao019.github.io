@@ -1,4 +1,4 @@
-title: MuseV
+title: "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned  Parallel Denoising"
 description: MuseV's Introduction blog
 
 url: https://long-haul.netlify.app
@@ -19,7 +19,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Demos
+    - title: Generation Galary
       url: /home
 
 
