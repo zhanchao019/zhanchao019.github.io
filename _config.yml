@@ -1,5 +1,5 @@
-title: Home page
-description: zhanchao's blog
+title: MuseV
+description: MuseV's Introduction blog
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -19,7 +19,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
+    - title: Demos
       url: /home
 
 
