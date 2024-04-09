@@ -9,7 +9,7 @@ title: demopage
     img {
         width: auto;
         height: auto;
-        max-width: 100%;
+        max-width: 80%;
         max-height: 100%;
         display: block;
         margin: auto;
